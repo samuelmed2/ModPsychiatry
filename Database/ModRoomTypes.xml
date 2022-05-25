@@ -45,7 +45,7 @@
             <Tag>any_office</Tag>
             <Tag>specialized_office</Tag>
             <Tag>receipt</Tag>
-			<Tag>sh_office</Tag>
+			<Tag>psy_office</Tag>
 			<Tag>emergency_doctors_office</Tag>
         </Tags>
 
@@ -99,7 +99,7 @@
             <Tag>histology_lab</Tag>
 			<Tag>microbiology_lab</Tag>
 			<Tag>hematology_lab</Tag>
-			<Tag>sh_lab</Tag>
+			<Tag>psy_lab</Tag>
 			<Tag>deprecated_lab</Tag>
         </Tags>
         

@@ -192,31 +192,5 @@
 		<File>MOD_ROOT/mod_exm_icon_ge_small.png</File>
 	</GameDBAsset>
 	
-<!-- ================================================== Decals ================================================== -->
-
-	<GameDBAsset ID="ASSET_TEX_MOD_NAME_DECALS_PSYCHIATRY">
-		<Type>TEXTURE_OBJECTS</Type>
-		<File>MOD_ROOT/mod_decals_2048_atlas.png</File>
-	</GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_DECAL_PSYCHIATRY_CUSTOM_ICON">
-		<Type>TEXTURE_CUSTOM_SPRITE</Type>
-		<File>MOD_ROOT/mod_sex_health_decal.png</File>
-	</GameDBAsset>
-
-
-  <!-- ================================================== Posters ================================================== -->
-
-	<GameDBAsset ID="ASSET_TEX_PSYCHIATRYH_POSTERS_OBJECTS_TALL">
-		<Type>TEXTURE_OBJECTS</Type>
-		<File>MOD_ROOT/mod_objects_tall_atlas.png</File>
-	</GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_PSYCHIATRY_POSTER_A_CUSTOM_ICON">
-		<Type>TEXTURE_CUSTOM_SPRITE</Type>
-		<File>MOD_ROOT/Mod_SexHealthPoster_A.png</File>
-	</GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_PSYCHIATRY_POSTER_B_CUSTOM_ICON">
-		<Type>TEXTURE_CUSTOM_SPRITE</Type>
-		<File>MOD_ROOT/Mod_SexHealthPoster_B.png</File>
-	</GameDBAsset>
 
 </Database>
