@@ -1,0 +1,28 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_PSYCHIATRY_SKILLS">
+        
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>samuelmed</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            
+		<!-- Departments -->
+			
+        <GameDBLocalizedString>      <LocID>DPT_PSY</LocID>                                          <Text>Psychiatry</Text>  </GameDBLocalizedString>
+			
+		<!--Skills-->
+			
+		<GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_PSY</LocID>                               <Text>Psychiatry</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_PSY_DESCRIPTION</LocID>                   <Text>Psychiatry gives access to specialized procedures for diagnosing and treating critical patients at the Psychiatry Clinic.</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_PSY_SURGERY</LocID>                       <Text>PSY Surgery</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_PSY_SURGERY_DESCRIPTION</LocID>           <Text></Text>  </GameDBLocalizedString>
+
+		</LocalizedStrings>
+		
+	</GameDBStringTable>
+
+</Database>

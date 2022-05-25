@@ -1,0 +1,25 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_PSYCHIATRY_TREATMENTS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>samuelmed</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+
+			<GameDBLocalizedString>
+				<LocID>TRT_PSY_PSYCHOTHERAPY</LocID>
+				<Text>Psychotherapy</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_PSY_PSYCHOTHERAPY_DESCRIPTION</LocID>
+				<Text>Psychotherapy text text tex</Text>
+			</GameDBLocalizedString>
+			
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

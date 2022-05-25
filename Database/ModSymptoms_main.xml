@@ -1,0 +1,62 @@
+﻿<Database>
+
+	
+	<GameDBSymptom ID="SYM_PSY_ANHEDONIA">
+        <DescriptionLocID>SYM_PSY_ANHEDONIA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1425</IconIndex>
+    </GameDBSymptom>
+
+	
+	<GameDBSymptom ID="SYM_PSY_FEAR">
+        <DescriptionLocID>SYM_PSY_FEAR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1425</IconIndex>
+    </GameDBSymptom>
+
+	
+	<GameDBSymptom ID="SYM_PSY_MOOD_SHIFT">
+        <DescriptionLocID>SYM_PSY_MOOD_SHIFT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+        </Treatments>
+        <ShameLevel>60</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1167</IconIndex>
+    </GameDBSymptom>
+
+	
+    
+</Database>

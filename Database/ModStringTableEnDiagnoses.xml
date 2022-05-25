@@ -1,0 +1,50 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_PSYCHIATRY_DIAGNOSES">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>samuelmed</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+         <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD</LocID>                         
+		<Text>Major Depressive Disorder</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD_DESCRIPTION</LocID>             
+		<Text>Major Depressive Disorder text text text</Text>	
+		</GameDBLocalizedString>
+            
+            
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_ANX</LocID>                         
+		<Text>anxiety</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_ANX_DESCRIPTION</LocID>             
+		<Text>anxiety  text text text</Text>	
+		</GameDBLocalizedString>
+            
+            
+         <GameDBLocalizedString>      
+		<LocID>DIA_PSY_BD</LocID>                         
+		<Text>Bipolar Disorder</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_BD_DESCRIPTION</LocID>             
+		<Text>Bipolar Disorder text text text</Text>	
+		</GameDBLocalizedString>
+            
+            
+            
+            
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

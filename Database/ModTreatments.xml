@@ -1,0 +1,40 @@
+﻿<Database>
+
+	
+	<GameDBTreatment ID="TRT_PSY_PSYCHOTHERAPY">
+        <AbbreviationLocID>TRT_PSY_PSYCHOTHERAPY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_PSY</SkillRef>
+            </RequiredDoctorQualificationList>
+
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>receipt</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <RequiredRoomTags>
+                <Tag>psy_office</Tag>
+				<Tag>ward</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+		<PharmacyPickup>true</PharmacyPickup>
+        <Cost>50</Cost>
+		<IconIndex>2021</IconIndex>
+
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+	
+
+</Database>

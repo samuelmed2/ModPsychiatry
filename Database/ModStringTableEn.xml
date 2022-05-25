@@ -1,0 +1,24 @@
+<Database>
+    <GameDBStringTable ID="ADDON_PSYCHIATRY">
+    
+    <LanguageCode>en</LanguageCode>
+    <LanguageNameLocalized>English</LanguageNameLocalized>
+		
+	<Contributors>
+    <Name>samuelmed</Name>
+    </Contributors>
+		
+	<LocalizedStrings>
+		
+		<GameDBLocalizedString>      
+		<LocID>ADDON_PSYCHIATRY</LocID>																
+		<Text>Psychiatry Department</Text>  
+		</GameDBLocalizedString>
+	
+	
+			</LocalizedStrings>
+	</GameDBStringTable>
+
+</Database>
+
+

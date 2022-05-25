@@ -1,0 +1,19 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_PSYCHIATRY_BUILDING_MODE">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>samuelmed</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_PSY_OFFICE</LocID>                    			<Text>Psychiatry office</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_PSY_OFFICE_DESCRIPTION</LocID>        			<Text>A doctor's office specialising in psychiatry. Staff requirements:\n1x Doctor</Text>  </GameDBLocalizedString>
+		
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

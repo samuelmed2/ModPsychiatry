@@ -1,0 +1,42 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_PSYCHIATRY_SYMPTOMS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>samuelmed</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_ANHEDONIA</LocID>
+				<Text>ANHEDONIA</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_ANHEDONIA_DESCRIPTION</LocID>
+				<Text>ANHEDONIA text text text</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_FEAR</LocID>
+				<Text>fear</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_FEAR_DESCRIPTION</LocID>
+				<Text>fear text text text</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_MOOD_SHIFT</LocID>
+				<Text>MOOD_SHIFT</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_MOOD_SHIFT_DESCRIPTION</LocID>
+				<Text>MOOD_SHIFT text text ext</Text>
+			</GameDBLocalizedString>
+			
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>
