@@ -12,10 +12,11 @@
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
         </Examinations>
         <Treatments>
+            <TreatmentRef>TRT_PSY_PSYCHOTHERAPY</TreatmentRef>
         </Treatments>
         <ShameLevel>30</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
-        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        
         <IconIndex>1425</IconIndex>
     </GameDBSymptom>
 
@@ -31,10 +32,11 @@
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
         </Examinations>
         <Treatments>
+<TreatmentRef>TRT_PSY_PSYCHOTHERAPY</TreatmentRef>
         </Treatments>
         <ShameLevel>30</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
-        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        
         <IconIndex>1425</IconIndex>
     </GameDBSymptom>
 
@@ -50,10 +52,11 @@
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
         </Examinations>
         <Treatments>
+<TreatmentRef>TRT_PSY_PSYCHOTHERAPY</TreatmentRef>
         </Treatments>
         <ShameLevel>60</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
-        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        
         <IconIndex>1167</IconIndex>
     </GameDBSymptom>
 
