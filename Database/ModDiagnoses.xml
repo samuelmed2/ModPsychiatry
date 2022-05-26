@@ -8,28 +8,28 @@
         <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
         <Symptoms>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_ANXIETY</GameDBSymptomRef>
             </GameDBSymptomRules>
 			<GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_SLEEPING_DIFFICULTIES</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_LOSS_OF_APETITE</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
-                <ProbabilityPercent>60</ProbabilityPercent>
+                
+                <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_PSY_ANHEDONIA</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
@@ -67,33 +67,33 @@
         <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
          <Symptoms>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_ANXIETY</GameDBSymptomRef>
             </GameDBSymptomRules>
 			<GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_SLEEPING_DIFFICULTIES</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
             </GameDBSymptomRules>
 			 <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_ABDOMINAL_CRAMPS</GameDBSymptomRef>
             </GameDBSymptomRules>
              <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
-                <ProbabilityPercent>60</ProbabilityPercent>
+                
+                <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_PSY_FEAR</GameDBSymptomRef>
             </GameDBSymptomRules>
 
@@ -131,23 +131,23 @@
         <OccurrenceRef>OCCURRENCE_UNCOMMON</OccurrenceRef>
         <Symptoms>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
             </GameDBSymptomRules>
 			<GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_SLEEPING_DIFFICULTIES</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_ABDOMINAL_PAIN</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
-                <DayOfFirstOccurence>0</DayOfFirstOccurence>
-                <ProbabilityPercent>60</ProbabilityPercent>
+                
+                <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_PSY_MOOD_SHIFT</GameDBSymptomRef>
             </GameDBSymptomRules>
             
