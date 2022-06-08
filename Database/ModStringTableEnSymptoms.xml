@@ -19,6 +19,27 @@
 				<LocID>SYM_PSY_ANHEDONIA_DESCRIPTION</LocID>
 				<Text>ANHEDONIA text text text</Text>
 			</GameDBLocalizedString>
+            
+            <GameDBLocalizedString>
+				<LocID>SYM_PSY_SUICIDE_ATTEMPTS</LocID>
+				<Text>SEVERAL SUICIDE ATTEMPS</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_SUICIDE_ATTEMPTS_DESCRIPTION</LocID>
+				<Text>SEVERAL SUICIDE ATTEMPS text text text</Text>
+			</GameDBLocalizedString>
+            
+            
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_DEPRESSION_THERAPY</LocID>
+				<Text>dEPRESSION THERAPY</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_DEPRESSION_THERAPY_DESCRIPTION</LocID>
+				<Text>depression therapy text text text</Text>
+			</GameDBLocalizedString>
+            
+            
 			<GameDBLocalizedString>
 				<LocID>SYM_PSY_FEAR</LocID>
 				<Text>fear</Text>
@@ -27,6 +48,18 @@
 				<LocID>SYM_PSY_FEAR_DESCRIPTION</LocID>
 				<Text>fear text text text</Text>
 			</GameDBLocalizedString>
+            
+            
+        	<GameDBLocalizedString>
+				<LocID>SYM_PSY_ANXIETY_THERAPY</LocID>
+				<Text>anxiety therapy</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PSY_ANXIETY_THERAPY_DESCRIPTION</LocID>
+				<Text>anxiety therapy text text text</Text>
+			</GameDBLocalizedString>
+            
+            
 			<GameDBLocalizedString>
 				<LocID>SYM_PSY_MOOD_SHIFT</LocID>
 				<Text>MOOD_SHIFT</Text>

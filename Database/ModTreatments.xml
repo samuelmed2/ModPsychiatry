@@ -29,10 +29,87 @@
         </Procedure>
         <TreatmentType>RECEIPT</TreatmentType>
 		<PharmacyPickup>true</PharmacyPickup>
-        <Cost>50</Cost>
+        <Cost>200</Cost>
 		<IconIndex>2021</IconIndex>
 
-        <DurationHours>0</DurationHours>
+        <DurationHours>1</DurationHours>
+    </GameDBTreatment>
+    
+    
+    
+    <GameDBTreatment ID="TRT_HOSPITALIZATION_SHORT_STAY">
+        <AbbreviationLocID>TRT_HOSPITALIZATION_SHORT_STAY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_PSY</SkillRef>
+            </RequiredSkillsToPrescribe>
+
+            <RequiredRoomTags>
+                <Tag>hospitalization_normal</Tag>
+            </RequiredRoomTags>
+
+            <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <HospitalizationLevel>NORMAL</HospitalizationLevel>
+            <DetachedDepartmentRef>DPT_PSY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>HOSPITALIZATION</TreatmentType>
+        <Cost>860</Cost>
+        <IconIndex>1971</IconIndex>
+        <DurationHours>72</DurationHours>
+    </GameDBTreatment>
+    
+    
+        <GameDBTreatment ID="TRT_HOSPITALIZATION_HALF_STAY">
+        <AbbreviationLocID>TRT_HOSPITALIZATION_HALF_STAY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_PSY</SkillRef>
+            </RequiredSkillsToPrescribe>
+
+            <RequiredRoomTags>
+                <Tag>hospitalization_normal</Tag>
+            </RequiredRoomTags>
+
+            <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <HospitalizationLevel>NORMAL</HospitalizationLevel>
+            <DetachedDepartmentRef>DPT_PSY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>HOSPITALIZATION</TreatmentType>
+        <Cost>1700</Cost>
+        <IconIndex>1971</IconIndex>
+        <DurationHours>144</DurationHours>
+    </GameDBTreatment>
+    
+    
+        
+        <GameDBTreatment ID="TRT_HOSPITALIZATION_LONG_STAY">
+        <AbbreviationLocID>TRT_HOSPITALIZATION_LONG_STAY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_PSY</SkillRef>
+            </RequiredSkillsToPrescribe>
+
+            <RequiredRoomTags>
+                <Tag>hospitalization_normal</Tag>
+            </RequiredRoomTags>
+
+            <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <HospitalizationLevel>NORMAL</HospitalizationLevel>
+            <DetachedDepartmentRef>DPT_PSY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>HOSPITALIZATION</TreatmentType>
+        <Cost>3400</Cost>
+        <IconIndex>1971</IconIndex>
+        <DurationHours>288</DurationHours>
     </GameDBTreatment>
 
 	

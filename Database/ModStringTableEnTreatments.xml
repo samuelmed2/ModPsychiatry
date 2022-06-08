@@ -19,6 +19,36 @@
 				<LocID>TRT_PSY_PSYCHOTHERAPY_DESCRIPTION</LocID>
 				<Text>Psychotherapy text text tex</Text>
 			</GameDBLocalizedString>
+            
+            
+            <GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_SHORT_STAY</LocID>
+				<Text>HOSPITALIZACION SHORT STAY</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_SHORT_STAY_DESCRIPTION</LocID>
+				<Text>HOSPITALIZACION SHORT STAY text text tex</Text>
+			</GameDBLocalizedString>
+            
+            
+            <GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_HALF_STAY</LocID>
+				<Text>HOSPITALIZACION HALF STAY</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_HALF_STAY_DESCRIPTION</LocID>
+				<Text>HOSPITALIZACION HALF STAY text text tex</Text>
+			</GameDBLocalizedString>
+            
+            
+            <GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_LONG_STAY</LocID>
+				<Text>HOSPITALIZACION LONG STAY</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_HOSPITALIZATION_LONG_STAY_DESCRIPTION</LocID>
+				<Text>HOSPITALIZACION LONG STAY text text tex</Text>
+			</GameDBLocalizedString>
 			
 		</LocalizedStrings>
     </GameDBStringTable>

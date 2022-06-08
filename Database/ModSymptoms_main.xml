@@ -12,6 +12,47 @@
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
         </Examinations>
         <Treatments>
+            <TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        
+        <IconIndex>1425</IconIndex>
+    </GameDBSymptom>
+    
+    
+    	<GameDBSymptom ID="SYM_PSY_SUICIDE_ATTEMPTS">
+        <DescriptionLocID>SYM_PSY_SUICIDE_ATTEMPTS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        
+        <IconIndex>1425</IconIndex>
+    </GameDBSymptom>
+    
+    	
+	<GameDBSymptom ID="SYM_PSY_DEPRESSION_THERAPY">
+        <DescriptionLocID>SYM_PSY_DEPRESSION_THERAPY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
             <TreatmentRef>TRT_PSY_PSYCHOTHERAPY</TreatmentRef>
         </Treatments>
         <ShameLevel>30</ShameLevel>
@@ -23,6 +64,26 @@
 	
 	<GameDBSymptom ID="SYM_PSY_FEAR">
         <DescriptionLocID>SYM_PSY_FEAR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+<TreatmentRef>TRT_PSY_PSYCHOTHERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        
+        <IconIndex>1425</IconIndex>
+    </GameDBSymptom>
+    
+    
+	<GameDBSymptom ID="SYM_PSY_ANXIETY_THERAPY">
+        <DescriptionLocID>SYM_PSY_ANXIETY_THERAPY_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Low</Hazard>

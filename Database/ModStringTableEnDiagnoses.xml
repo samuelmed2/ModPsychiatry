@@ -20,6 +20,26 @@
 		<Text>Major Depressive Disorder text text text</Text>	
 		</GameDBLocalizedString>
             
+         <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD_HOSPITALIZATION</LocID>                         
+		<Text>Major Depressive Disorder HOSPITALIZATOIN NEEDED</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD_HOSPITALIZATION_DESCRIPTION</LocID>             
+		<Text>Major Depressive Disorder HOSPITALIZATION text text text</Text>	
+		</GameDBLocalizedString>
+            
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD_THERAPY</LocID>                         
+		<Text>Major Depressive Disorder therapy</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_MDD_DESCRIPTION_THERAPY</LocID>             
+		<Text>Major Depressive Disorder therapy text text text</Text>	
+		</GameDBLocalizedString>
+            
             
         <GameDBLocalizedString>      
 		<LocID>DIA_PSY_ANX</LocID>                         
@@ -29,6 +49,17 @@
         <GameDBLocalizedString>      
 		<LocID>DIA_PSY_ANX_DESCRIPTION</LocID>             
 		<Text>anxiety  text text text</Text>	
+		</GameDBLocalizedString>
+            
+            
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_ANX_THERAPY</LocID>                         
+		<Text>anxiety therapy</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_PSY_ANX_DESCRIPTION_THERAPY</LocID>             
+		<Text>anxiety  therapy text text text</Text>	
 		</GameDBLocalizedString>
             
             
