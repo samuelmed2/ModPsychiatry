@@ -1,0 +1,3 @@
+# ModPsychiatry
+
+Psychiatry department mod
